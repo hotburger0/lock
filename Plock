@@ -1,0 +1,12 @@
+<body>
+  <div id="host1">
+    <shadow-root id="root1">
+      <canvas id="canvas1"></canvas>
+    </shadow-root>
+  </div>
+  <div id="host2">
+    <shadow-root id="root2">
+      <canvas id="canvas2"></canvas>
+    </shadow-root>
+  </div>
+</body>
